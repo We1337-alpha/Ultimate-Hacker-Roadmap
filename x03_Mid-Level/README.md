@@ -24,22 +24,24 @@ It's not necessary to know everything here to advance yourself into a Senior, th
 # Domain 1: Cloud Security
 ## Cloud-Based Penetration Testing
 #### Popular Cloud Hacking Tools:
-   * dnscat2
-   * Cloud Storage Tester
+   * [[dnscat2]]
+   * [[Cloud Storage Tester]]
+   * [[Pacu]]
+   * [[CloudPoolLL]]
    
 #### Attacks:
    * Stealing AWS Access Keys
-     * SSRF
-       * XXE-OOB
-         * Documents with XXE payload
-         * PDFs with XXE playload
-       * SVG with Embedded links
-     * Exploiting Deserialization Bugs
-     * Command Injection
-       * Uploading filenames with code paramenters
-         * Printing environment variables
-     * Malicious File Upload
-       * ImageTragick
+     * [[SSRF]]
+       * [[XXE-OOB]]
+         * [[Documents with XXE payload]]
+         * [[PDFs with XXE playload]]
+       * [[SVG with Embedded links]]
+     * [[Exploiting Deserialization Bugs]]
+     * [[Command Injection]]
+       * [[Uploading filenames with code paramenters]]
+         * [[Printing environment variables]]
+     * [[Malicious File Upload]]
+       * [[ImageTragick]]
      
 ## AWS Cloud Security
 #### Protecting AWS Access Keys
@@ -79,50 +81,50 @@ It's not necessary to know everything here to advance yourself into a Senior, th
 
 #### Securing Communications
    * Confidentality
-     * Encryption
-     * Secure Protocols (TLS/SSL, IPsec)
-     * VPNs
-     * Secure Email(PGP, S/MIME)
-     * Secure Messaging (Signal, WhatsApp)
+     * [[Encryption]]
+     * [[Secure Protocols (TLS/SSL, IPsec)]]
+     * [[VPNs]]
+     * [[Secure Email(PGP, S/MIME)]]
+     * [[Secure Messaging (Signal, WhatsApp)]]
    * Integrity
-	 - Data Integrity
-	 - Digital Signatures
-	 - HMAC
-     * AWS SigV4
+	 - [[Data Integrity]]
+	 - [[Digital Signatures]]
+	 - [[HMAC]]
+     * [[AWS SigV4]]
    * Availability
-     * AWS Shield _(DDoS Protection)_
-       * Standard
-       * Advanced
+     * [[AWS Shield (DDoS Protection)]]
+       * [[Standard]]
+       * [[Advanced]]
    
 #### Securing Data-At-Rest
    * Confidentality
-     * AWS KMS
-     * S3 Bucket Permissions
+     * [[AWS KMS]]
+     * [[S3 Bucket Permissions]]
    * Integrity
-     * Encryption at Rest (AES-256)
-     * Data Integrity Checks
+     * [[Encryption at Rest (AES-256)]]
+     * [[Data Integrity Checks]]
    * Availabity
-     * S3 Versioning
-     * S3 Object lifecycle Management
-       * Transition Actions
-       * Expiration Actions
-       * LifeCycle Scopes
+     * [[S3 Versioning]]
+     * [[S3 Object lifecycle Management]]
+       * [[Transition Actions]]
+       * [[Expiration Actions]]
+       * [[LifeCycle Scopes]]
        
 #### Identity, Authentication, and Authorization
-   * AWS IAM
-     * Users
-     * Groups
+   * [[AWS IAM]]
+     * [[Users]]
+     * [[Groups]]
   
 #### Logging, Monitoring, and Auditing
-   * AWS Trusted Advisor
-     * Check-Level Status
-       * Okay-State
-       * Warning-State
-       * Error-State
-   * AWS CloudWatch
-   * AWS CloudTrail
-   * AWS Config
-   * AWS Artitfact
+   * [[AWS Trusted Advisor]]
+     * [[Check-Level Status]]
+       * [[Okay-State]]
+       * [[Warning-State]]
+       * [[Error-State]]
+   * [[AWS CloudWatch]]
+   * [[AWS CloudTrail]]
+   * [[AWS Config]]
+   * [[AWS Artitfact]]
 
 
 ## AWS Serverless
@@ -138,46 +140,46 @@ It's not necessary to know everything here to advance yourself into a Senior, th
  -------------------
 # Domain 2: Exploit Development
 ## Modern Technologies
- * Ahead-Of-Time Compilers _(AOT)_
-   * Lexical Analyzer
-     * Token Streams
-   * Syntax Parser / Analyzer
-     * Abstract Syntax Tree
-   * IR Generator 
-     * Intermediate Representation
-   * IR Optimizer
- * Just-In-Time Compilers _(JIT)_
+ * [[Ahead-Of-Time Compilers (AOT)]]
+   * [[Lexical Analyzer]]
+     * [[Token Streams]]
+   * [[Syntax Parser - Analyzer]]
+     * [[Abstract Syntax Tree]]
+   * [[IR Generator]]
+     * [[Intermediate Representation]]
+   * [[IR Optimizer]]
+ * [[Just-In-Time Compilers (JIT)]]
    * JIT Designs:
-     * Tracing JIT Design
-       * Profiling Phase
-       * Tracing Phase
-       * Optimizating Phase
-     * Method JIT Design
+     * [[Tracing JIT Design]]
+       * [[Profiling Phase]]
+       * [[Tracing Phase]]
+       * [[Optimizating Phase]]
+     * [[Method JIT Design]]
    * JIT Features:
-     * Profile-Guided Optimization
-     * Pseudo-Constant Propagation
-       * Dead Code Elimination
-     * Indirect-Virtual Function Inlining
+     * [[Profile-Guided Optimization]]
+     * [[Pseudo-Constant Propagation]]
+       * [[Dead Code Elimination]]
+     * [[Indirect-Virtual Function Inlining]]
 
 ## Bypassing Modern Exploitation Prevention
- * Memory Leak Vulnerabilities
-   * printf()
-   * Abusing the Meltdown Exploit
-   * Error message with memory addresses
- * Bypassing NX-Bit
-   * Return-to-LibC
-     * Executing function calls
-       * system()
-   * Return-Oriented Programming _(Gadget Chains)_
-     * mprotect(2) _(Disable DEP)_
-     * .bss Shellcode Execution
- * Bypassing ASLR
-   * Enumerating Memory Offset
-     * BlindSide Attack _(Meltdown Vulnerable CPUs)_
- * Use-After-Free
-   * Heap Spraying
- * JIT Spraying
- * Staged Shellcode
-   * Egg Hunting
- * Bypassing CFG
-   * Data-Oriented Attacks
+ * [[Memory Leak Vulnerabilities]]
+   * [[printf()]]
+   * [[Abusing the Meltdown Exploit]]
+   * [[Error message with memory addresses]]
+ * [[Bypassing NX-Bit]]
+   * [[Return-to-LibC]]
+     * [[Executing function calls]]
+       * [[system()]]
+   * [[Return-Oriented Programming (Gadget Chains)]]
+     * [[mprotect(2) (Disable DEP)]]
+     * [[-.bss Shellcode Execution]]
+ * [[Bypassing ASLR]]
+   * [[Enumerating Memory Offset]]
+     * [[BlindSide Attack (Meltdown Vulnerable CPUs)]]
+ * [[Use-After-Free]]
+   * [[Heap Spraying]]
+ * [[JIT Spraying]]
+ * [[Staged Shellcode]]
+   * [[Egg Hunting]]
+ * [[Bypassing CFG]]
+   * [[Data-Oriented Attacks]]

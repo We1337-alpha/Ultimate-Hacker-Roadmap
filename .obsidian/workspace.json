@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "x04_Senior/README.md",
-                "mode": "preview",
+                "file": "x03_Mid-Level/README.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "x04_Senior/README.md",
+                "file": "x03_Mid-Level/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "x04_Senior/README.md",
+                "file": "x03_Mid-Level/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "x04_Senior/README.md"
+                "file": "x03_Mid-Level/README.md"
               }
             }
           }
@@ -148,12 +148,12 @@
   },
   "active": "71bef5d32eeb9bb6",
   "lastOpenFiles": [
+    "README.md",
+    "x04_Senior/README.md",
     "x02_Associate/README.md",
     "x02_Associate/Flare VM.md",
-    "x04_Senior/README.md",
     "x03_Mid-Level/README.md",
     "x01_Newbie/README.md",
-    "README.md",
     "x00_Clueless/Ray Tracing.md",
     "x00_Clueless/README.md",
     "x00_Clueless/Base64.md",
