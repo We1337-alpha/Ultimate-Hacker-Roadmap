@@ -24,10 +24,10 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
 ## Advanced Penetration Testing Tools
  * **More Reverse Engineering Tools**
    * Windows-Based Tools
-     * Flare VM
-     * SysInternals
-     * CFF Explorer
-     * Get-PESecurity
+     * [[Flare VM]]
+     * [[SysInternals]]
+     * [[CFF Explorer]]
+     * [[Get-PESecurity]]
    * Linux-Based Tools
      * gdb-peda
        * checksec
@@ -46,7 +46,8 @@ Below is a list that I like to call the BIG 4.  Your employer should have confid
    * iOS-Based Assessments:
      * PassionFruit
    * Andriod-Based Assessments:
-     * ...
+     * MobSF (Mobile Security Framework)
+     * APKTool
 
 
 ## Advanced Web Application Exploitation

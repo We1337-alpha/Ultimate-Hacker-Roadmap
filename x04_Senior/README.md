@@ -5,7 +5,7 @@ If you're a Senior then congratulations.  You problably have been in the field m
 I personally think staying invovled in the Cyber Security Community is where a senior is likely going to put their attention.  Conventions, Security News, Blogs, and Social Media of other top hackers.  At this point, I feel it's a responsiblity to stay up to date with the latest Cyber Security breaches and news.
 
 
-## [Work in Progress...]
+## Work in Progress...
 -------
 # Subscribe to Feedspot
 I'm not affilated with them.  If a better service is available, I will recommend that instead.

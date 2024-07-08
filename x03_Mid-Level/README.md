@@ -77,11 +77,17 @@ It's not necessary to know everything here to advance yourself into a Senior, th
    * AWS WAF
      * Checkpoints
 
-     
 #### Securing Communications
    * Confidentality
-     * ...
+     * Encryption
+     * Secure Protocols (TLS/SSL, IPsec)
+     * VPNs
+     * Secure Email(PGP, S/MIME)
+     * Secure Messaging (Signal, WhatsApp)
    * Integrity
+	 - Data Integrity
+	 - Digital Signatures
+	 - HMAC
      * AWS SigV4
    * Availability
      * AWS Shield _(DDoS Protection)_
@@ -93,7 +99,8 @@ It's not necessary to know everything here to advance yourself into a Senior, th
      * AWS KMS
      * S3 Bucket Permissions
    * Integrity
-     * ...
+     * Encryption at Rest (AES-256)
+     * Data Integrity Checks
    * Availabity
      * S3 Versioning
      * S3 Object lifecycle Management
