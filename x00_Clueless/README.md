@@ -12,86 +12,86 @@ These are the skills you'll need to have to *break into the field*.  Acquiring t
 
 ### Very Basic Computer Fundamentals
 * **Basic BIOS Configurations**
-  * Boot Sequence
-  * Enabling / Disabling Devices
-  * Changing Date / Time
-    * CMOS Batteries
-  * CPU Clockspeeds
-  * BIOS Firmware Upgrades
-  * Enabling Virtualization Support
-  * Secure Boot _(Basic Understanding)_
+  * [[Boot Sequence]]
+  * [[Enabling - Disabling Devices]]
+  * [[Changing Date - Time]]
+    * [[CMOS Batteries]]
+  * [[CPU Clockspeeds]]
+  * [[BIOS Firmware Upgrades]]
+  * [[Enabling Virtualization Support]]
+  * [[Secure Boot (Basic Understanding)]]
 * **Hard Drive Basics**
-  * Magnetic HDDs
-  * SSDs
-  * eMMC
-  * Partitioning
-    * FAT32
-    * NTFS
-    * ext2, ext3, ext4
-  * MBR _(Legacy)_
-  * EFI / UEFI
+  * [[Magnetic HDDs]]
+  * [[SSDs]]
+  * [[eMMC]]
+  * [[Partitioning]]
+    * [[FAT32]]
+    * [[NTFS]]
+    * [[ext2, ext3, ext4]]
+  * [[MBR (Legacy)]]
+  * [[EFI - UEFI]]
 * **RAM**
-  * DDR1, DDR2, DDR3, DDR4
-  * Memory Speeds
-  * Memory Addressing
+  * [[DDR1, DDR2, DDR3, DDR4, DDR5]]
+  * [[Memory Speeds]]
+  * [[Memory Addressing]]
 * **CPUs**
-  * Intel
-    * i3, i5, i7, i9
-  * AMD
-    * Ryzen 3, Ryzen 5, Ryzen 7, Ryzen 9
-  * 32bit CPUs
-  * 64bit CPUs
-  * MultiThreading vs. MultiProcessing
+  * [[Intel]]
+    * [[i3, i5, i7, i9]]
+  * [[AMD]]
+    * [[Ryzen 3, Ryzen 5, Ryzen 7, Ryzen 9]]
+  * [[32bit CPUs]]
+  * [[64bit CPUs]]
+  * [[MultiThreading vs. MultiProcessing]]
 * **GPUs**
-  * Integrated vs. Discrete GPUs
-  * Ray Tracing
-  * GPU Memory
-  * GPU Bandwidth
+  * [[Integrated vs Discrete GPUs]]
+  * [[Ray Tracing]]
+  * [[GPU Memory]]
+  * [[GPU Bandwidth]]
 * **Caching**
-  * Web Caching
-  * Data Caching
-  * Application/Output Caching
-  * Distributed Caching
+  * [[Web Caching]]
+  * [[Data Caching]]
+  * [[Application-Output Caching]]
+  * [[Distributed Caching]]
 * **Common File Exstentions**
   * Executables
-    * .exe
-    * .o
-    * .sh
+    * [[a.exe]]
+    * [[a.o]]
+    * [[a.sh]]
   * Library files
-    * .dll
-    * .so
-    * .lib
+    * [[a.dll]]
+    * [[a.so]]
+    * [[a.lib]]
   * Web files
-    * .html
-    * .php
-    * .css
-    * .js
+    * [[a.html]]
+    * [[a.php]]
+    * [[a.css]]
+    * [[a.js]]
   * Image files
-    * .jpg
-    * .svg
-    * .png
+    * [[a.jpg]]
+    * [[a.svg]]
+    * [[a.png]]
   * Document files
-    * .doc
-    * .txt
-    * .pdf
+    * [[a.doc]]
+    * [[a.txt]]
+    * [[a.pdf]]
   * Code files
-    * .c
-    * .cpp
-    * .py
+    * [[a.c]]
+    * [[a.cpp]]
+    * [[a.py]]
   * Key files
-    * .pub
-    * .pem
-    * .der
+    * [[a.pub]]
+    * [[a.pem]]
+    * [[a.der]]
 * **Encoding**
-  * Base64
-  * ASCII
-  * UTF-8
+  * [[Base64]]
+  * [[ASCII]]
+  * [[UTF-8]]
 * **RAIDs**
-  * RAID 0
-  * RAID 1
-  * RAID 5
-  * RAID 6
-  * RAID 10
+  * [[RAID 0]]
+  * [[RAID 1]]
+  * [[RAID 5]]
+  * [[RAID 6]]
+  * [[RAID 10]]
   
 ## Windows Operating System Essentials
  * Windows Control Panel

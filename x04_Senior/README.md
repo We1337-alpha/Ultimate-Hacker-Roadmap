@@ -39,6 +39,7 @@ https://www.feedspot.com/
 
 ### Eugene Kaspersky
 _Founder of Kaspersky Lab_
+
 | Resources | Type |
 | --- | --- |
 | [Wikipedia Profile](https://en.wikipedia.org/wiki/Eugene_Kaspersky) | Web URL |
@@ -47,18 +48,19 @@ _Founder of Kaspersky Lab_
 | [Twitter Profile](https://twitter.com/e_kaspersky) | Social Media |
 
 ### Bruce Schneier
-| Resources | Type |
-| --- | --- |
-| [Wikipedia Profile](https://en.wikipedia.org/wiki/Bruce_Schneier) | Web URL |
-| [Bruce's Blog](https://www.schneier.com/blog/archives/2021/01/backdoor-in-zyxel-firewalls-and-gateways.html) | Security Blog |
-| [Twitter Profile](https://twitter.com/schneierblog) | Social Media |
-| [Amazon Account](https://www.amazon.com/Bruce-Schneier/e/B000AP7EVS) | Books Published |
+| Resources                                                                                                    | Type            |
+| ------------------------------------------------------------------------------------------------------------ | --------------- |
+| [Wikipedia Profile](https://en.wikipedia.org/wiki/Bruce_Schneier)                                            | Web URL         |
+| [Bruce's Blog](https://www.schneier.com/blog/archives/2021/01/backdoor-in-zyxel-firewalls-and-gateways.html) | Security Blog   |
+| [Twitter Profile](https://twitter.com/schneierblog)                                                          | Social Media    |
+| [Amazon Account](https://www.amazon.com/Bruce-Schneier/e/B000AP7EVS)                                         | Books Published |
 
 # [Tribe of Hackers](https://www.amazon.com/Tribe-Hackers-Cybersecurity-Advice-World-dp-1119643376/dp/1119643376/ref=dp_ob_title_bk) *(Book)*
 This is a list of other career Security Researchers found in the Book, Tribe of Hackers.
 
 ### Robert M. Lee
 _Founder and CEO, Dragos, Inc. Featured in "Tribe of Hackers"._
+
 | Resources | Type |
 | --- | --- |
 | [About Profile](http://www.robertmlee.org/) | Web URL |
