@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "x03_Mid-Level/README.md",
-                "mode": "source",
+                "file": "x00_Clueless/README.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "x03_Mid-Level/README.md",
+                "file": "x00_Clueless/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "x03_Mid-Level/README.md",
+                "file": "x00_Clueless/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "x03_Mid-Level/README.md"
+                "file": "x00_Clueless/README.md"
               }
             }
           }
@@ -136,34 +136,20 @@
     "width": 300,
     "collapsed": true
   },
-  "left-ribbon": {
-    "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
-    }
+  "ribbon": {
+    "mostRecentAction": ""
   },
   "active": "71bef5d32eeb9bb6",
   "lastOpenFiles": [
     "README.md",
-    "x04_Senior/README.md",
-    "x02_Associate/README.md",
-    "x02_Associate/Flare VM.md",
-    "x03_Mid-Level/README.md",
-    "x01_Newbie/README.md",
-    "x00_Clueless/Ray Tracing.md",
     "x00_Clueless/README.md",
-    "x00_Clueless/Base64.md",
-    "x00_Clueless/Secure Boot (Basic Understanding).md",
-    "x00_Clueless/CMOS Batteries.md",
-    "x00_Clueless/Changing Date - Time.md",
-    "x00_Clueless/Enabling - Disabling Devices.md",
-    "x00_Clueless/Boot Sequence.md",
-    "x00_Clueless/Enabling Virtualization Support.md",
-    "x00_Clueless/BIOS Firmware Upgrades.md",
-    "x00_Clueless/CPU Clockspeeds.md"
+    "x00_Clueless/Distributed Caching.md",
+    "x00_Clueless/Application-Output Caching.md",
+    "x00_Clueless/Data Caching.md",
+    "x00_Clueless/Web Caching.md",
+    "x00_Clueless/GPU Bandwidth.md",
+    "x00_Clueless/GPU Memory.md",
+    "x00_Clueless/Ray Tracing.md",
+    "x00_Clueless/Integrated vs Discrete GPUs.md"
   ]
 }
